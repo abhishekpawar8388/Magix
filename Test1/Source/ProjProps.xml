@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14090.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="0"/>
+  </Header>
+
+  <ProjectProperties>
+    <ProjectData>
+      <GUID val="{FCA87FC0-A149-4774-89B5-7E924B532126}"/>
+      <RemoteFlowMonitorRight comp="-1"/>
+      <NulArithmetic val="N"/>
+      <WindowSortBy val="R"/>
+      <_SystemPulldownMenu comp="-1" obj="5"/>
+      <_SystemContextMenu comp="-1"/>
+      <ExposeComment val="N"/>
+      <ProjectName val="Test1"/>
+    </ProjectData>
+  </ProjectProperties>
+
+</Application>
